@@ -13,6 +13,8 @@ using namespace std;
 int main(int argc, char* argv[])
 {
     cout << "hello world" << endl;
+
+    cout << "sdfsdf" << endl;
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
